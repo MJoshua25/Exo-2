@@ -24,4 +24,8 @@ public class Point {
     public void sety(int y) {
         this.y = y;
     }
+
+    public void Afficher(){
+        System.out.println("Abscisse = " + this.x + "\n Ordonnée = " + this.y);
+    }
 }
