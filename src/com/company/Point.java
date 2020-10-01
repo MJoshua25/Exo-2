@@ -16,4 +16,8 @@ public class Point {
     public int gety() {
         return this.y;
     }
+
+    public void setx(int x) {
+        this.x = x;
+    }
 }
