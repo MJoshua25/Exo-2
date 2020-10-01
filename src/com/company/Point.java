@@ -20,4 +20,8 @@ public class Point {
     public void setx(int x) {
         this.x = x;
     }
+
+    public void sety(int y) {
+        this.y = y;
+    }
 }
