@@ -13,4 +13,7 @@ public class Point {
         return this.x;
     }
 
+    public int gety() {
+        return this.y;
+    }
 }
