@@ -8,4 +8,9 @@ public class Point {
         this.x = x;
         this.y = y;
     }
+
+    public int getx() {
+        return this.x;
+    }
+
 }
